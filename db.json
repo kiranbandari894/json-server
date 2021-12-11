@@ -1,19 +1,41 @@
-{ 
+{
   "posts": [
-    { 
+    {
       "id": 1,
       "title": "json-server",
       "author": "typicode"
     }
   ],
-  "comments": [
+  "Users": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Kiran Kumar",
+      "author": "Developer"
+    },
+    {
+      "title": "Bandari Kumar",
+      "author": "Developer",
+      "id": 2
+    },
+    {
+      "title": "Bandari Kumar",
+      "author": "Developer",
+      "id": 3
+    },
+    {
+      "title": "Bandari Kumar",
+      "author": "Developer",
+      "id": 4
+    },
+    {
+      "title": "Bandari Kumar",
+      "author": "Developer",
+      "id": 5
+    },
+    {
+      "title": "Bandari Kumar",
+      "author": "Developer",
+      "id": 6
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
