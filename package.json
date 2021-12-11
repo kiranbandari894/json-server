@@ -1,6 +1,6 @@
 {  
   "scripts": {
-    "start": "json-server --watch db.json",
+    "start": "json-server --watch db.json" 
      
   },
   "dependencies": {
